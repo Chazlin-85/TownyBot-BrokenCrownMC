@@ -1,0 +1,22 @@
+{
+    "World of Bob": {
+        "role_id": 1455236201333391482,
+        "owner_id": 1357096626509975582,
+        "members": [
+            1357096626509975582
+        ],
+        "pending": [],
+        "awaiting_confirmation": false,
+        "guild_id": 1455133509646815335
+    },
+    "Beiping": {
+        "role_id": 1455239522311737469,
+        "owner_id": 553943557589827587,
+        "members": [
+            553943557589827587
+        ],
+        "pending": [],
+        "awaiting_confirmation": false,
+        "guild_id": 1455133509646815335
+    }
+}

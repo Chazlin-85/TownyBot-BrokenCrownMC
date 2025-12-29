@@ -1,0 +1,22 @@
+{
+    "Bob's Army": {
+        "leader_id": 1357096626509975582,
+        "capital_town": "World of Bob",
+        "member_towns": [
+            "World of Bob"
+        ],
+        "role_id": 1455236303019835594,
+        "war_status": null,
+        "war_target": null
+    },
+    "The Republic of China": {
+        "leader_id": 553943557589827587,
+        "capital_town": "Beiping",
+        "member_towns": [
+            "Beiping"
+        ],
+        "role_id": 1455239803900657929,
+        "war_status": null,
+        "war_target": null
+    }
+}
